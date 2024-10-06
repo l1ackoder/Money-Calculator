@@ -1,3 +1,5 @@
+Installation link: https://greasyfork.org/en/scripts/486142-money-calculator
+
 ### Currency Counter Script
 
 As a Bug Hunter, I often find myself visiting profiles to assess earnings from public programs. Manually tallying these amounts can be cumbersome, which is why I created this handy script.
